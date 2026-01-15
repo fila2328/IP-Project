@@ -1,6 +1,15 @@
 # School Feedback System
 
 A comprehensive web-based feedback system designed for educational institutions to collect and manage student feedback on teachers and courses.
+## � Admin Credentials
+
+**Admin Login:**
+- **Email**: `ddu.edu.et`
+- **Password**: `ddu123`
+
+Use these credentials to access the admin dashboard and manage the system.
+
+---
 
 ## 📋 Overview
 
