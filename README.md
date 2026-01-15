@@ -240,7 +240,7 @@ This project is developed for educational purposes. Feel free to use, modify, an
 ## �📞 Support
 
 For technical support or questions:
-- **Email**: support@school.edu
+- **Email**: filimonatsibeha17@gmail.com
 - **Documentation**: Check inline code comments
 - **Issues**: Report bugs through the development team
 
