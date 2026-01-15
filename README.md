@@ -12,7 +12,7 @@ Use these credentials to access the admin dashboard and manage the system.
 ---
 ## 🌐 Live Demo
 
-**Deployed URL**: [schoolfeedbackpage.netlify.app](https://schoolfeedbackpage.netlify.app)
+**Deployed URL**: https://schoolfeedbackpage.netlify.app/
 
 Access the live application to explore the School Feedback System in action.
 
