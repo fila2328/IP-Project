@@ -9,8 +9,7 @@ A comprehensive web-based feedback system designed for educational institutions 
 
 Use these credentials to access the admin dashboard and manage the system.
 
----
-## 🌐 Live Demo
+ 🌐 Live Demo
 
 **Deployed URL**: https://schoolfeedbackpage.netlify.app/
 
