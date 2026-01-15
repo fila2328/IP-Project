@@ -32,8 +32,7 @@ The School Feedback System is a modern, responsive web application that allows s
 - **HTML5**: Semantic markup and structure
 - **CSS3**: Modern styling with animations and transitions
 - **JavaScript (ES6+)**: Interactive functionality and DOM manipulation
-- **Font Awesome**: Icon library for UI elements
-- **Google Fonts**: Typography (Poppins font family)
+
 
 ### Storage
 - **LocalStorage**: Persistent data storage for users and feedback
